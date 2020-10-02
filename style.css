@@ -3,11 +3,14 @@
         background-color: red;
         padding-top: 3.5rem;
     }
+
     h1 {
         color:black;
         text-align:center;
     }
 
-    .sectionTitle{background-color: red;}
+    .sectionTitle {
+        background-color: red;
+    }
 
 </style>
