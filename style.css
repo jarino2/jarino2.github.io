@@ -2,9 +2,7 @@
     body {
         
         padding-top: 3.5rem;
-        class=row-2 {
-            style="background-color: lightgrey; border-style:solid;">
-        }
+        
 
     }
 
@@ -13,6 +11,9 @@
         text-align:center;
     }
 
+    .col-md-2 {
+        style="background-color: lightgrey; border-style:solid;"
+    }
     .sectionTitle {
         background-color: red;
     }
