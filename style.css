@@ -2,7 +2,7 @@
     body {
         
         padding-top: 3.5rem;
-        .row-2 {
+        class=row-2 {
             style="background-color: lightgrey; border-style:solid;">
         }
 
